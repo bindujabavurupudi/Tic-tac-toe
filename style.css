@@ -40,22 +40,22 @@ body{
     background-color: white;
 }
 #reset-btn{
-    padding: 1rem;
-    font-size: 1.25rem;
+    padding: 2vmin;
+    font-size: 3vmin;
     border: none;
-    border-radius: 1rem;
-     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    border-radius: 2.5vmin;
+     box-shadow: 0 0 2vmin rgba(0, 0, 0, 0.3);
      background-color: #364958;
      color: white;
 
 
 }
 #new-btn{
-    padding: 1rem;
-    font-size: 1.25rem;
+    padding: 2vmin;
+    font-size: 3vmin;
     border: none;
-    border-radius: 1rem;
-     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    border-radius: 2.5vmin;
+     box-shadow: 0 0 2vmin rgba(0, 0, 0, 0.3);
      background-color: #364958;
      color: white;
 

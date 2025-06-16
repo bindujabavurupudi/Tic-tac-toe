@@ -6,6 +6,13 @@
 body{
     text-align: center;
     background-color: #bc4749;
+    
+}
+#title {
+    font-size: 6vmin;
+    color: black;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 .container{
     height: 70vh;

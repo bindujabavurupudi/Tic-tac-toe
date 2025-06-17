@@ -41,24 +41,26 @@ body{
     background-color: white;
 }
 #reset-btn{
-    padding: 1rem;
+    padding: 1.5vmin 3vmin;
     border-radius: 1rem;
     border: none;
-    font-size: 1rem;
-     box-shadow: 1vmin 1vmin 1vmin rgba(0, 0, 0, 0.4);
-     background-color: #364958;
-     color: white;
+    font-size: 3vmin;
+    box-shadow: 1vmin 1vmin 1vmin rgba(0, 0, 0, 0.4);
+    background-color: #364958;
+    color: white;
+    margin-top: 4vmin;
 
 
 }
 #new-btn{
-    padding: 1rem;
+    padding: 1.5vmin 3vmin;
     border-radius: 1rem;
     border: none;
-    font-size: 1rem;
-     box-shadow: 1vmin 1vmin 1vmin rgba(0, 0, 0, 0.4);
-     background-color: #364958;
-     color: white;
+    font-size: 3vmin;
+    box-shadow: 1vmin 1vmin 1vmin rgba(0, 0, 0, 0.4);
+    background-color: #364958;
+    color: white;
+    margin-top: 4vmin;
 
 
 }
